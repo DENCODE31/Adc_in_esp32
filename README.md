@@ -60,3 +60,14 @@ If following warning is printed out, it means the calibration required eFuse bit
 W (300) ADC_ONESHOT: eFuse not burnt, skip calibration
 I (1310) ADC_ONESHOT: ADC1 Channel[2] Raw Data: 0
 ```
+
+---
+
+## Estado del proyecto
+
+**COMPLETADO** — Semestre 2026-1 cerrado.
+
+- Fecha cierre: 2026-06-18
+- Materia: STR (Sistemas Tiempo Real)
+- Entrega: aprobada
+- Estado código: funcional, archivado
